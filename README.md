@@ -18,6 +18,10 @@ configs:
 
 # 医学术语数据集
 
+## 直接下载
+
+- [下载 terms.jsonl](https://github.com/lengfeng650-star/medical-terminology/raw/refs/heads/main/data/terms.jsonl)
+
 共 1,000 条术语，覆盖 10 类。
 
 | 类别 | 条数 |
@@ -33,7 +37,7 @@ configs:
 | 中文医学术语 | 100 |
 | 综合医学术语 | 100 |
 
-[术语数据](data/terms.jsonl) · [来源与许可](LICENSE)
+[来源与许可](LICENSE)
 
 ## 后续新增
 
